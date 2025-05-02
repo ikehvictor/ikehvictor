@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Your Name]! 👨‍💻
 
-<!--
-**ikehvictor/ikehvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m an AWS Cloud Computing student at ALX, transitioning from web development into cloud engineering and DevOps.
 
-Here are some ideas to get you started:
+🛠️ **Currently exploring:**
+- AWS (EC2, S3, IAM, Lambda, CloudWatch)
+- Git & GitHub
+- Linux & Bash scripting
+- Docker (learning in progress)
+- HTML, CSS, JavaScript
+- Python for automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Goals for 2025:**
+- Complete ALX AWS Cloud track ✅
+- Earn AWS Certified Cloud Practitioner 🏅
+- Build 5+ real-world cloud projects 💻
+- Land a Cloud Engineer or DevOps role 🌍
+
+📫 **Let’s connect:**
+- [LinkedIn](https://www.linkedin.com/in/victor-ikeh-a6777112b/)
+- [Medium](https://medium.com/@victorikeh0)
+- [Twitter/X](https://x.com/viky1222)
+- [GitHub](https://github.com/ikehvictor/)
+
+> “Learning in public. Building in the cloud.” ☁️
