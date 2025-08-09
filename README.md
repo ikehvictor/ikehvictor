@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Ikeh victor]! 👨‍💻
+# 👋 Hi there, I'm Ikeh victor! 👨‍💻
 
 🚀 I’m an AWS Cloud Computing student at ALX, transitioning from web development into cloud engineering and DevOps.
 
