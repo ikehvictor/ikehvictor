@@ -9,12 +9,12 @@
 - **API & Backend:** Node.js, Supabase RPC, REST/GraphQL, Real-time WebSockets.
 
 ☁️ **Cloud & Infrastructure:**
-- **Cloud Providers:** AWS (EC2, S3, IAM, Lambda), Oracle Cloud (Infrastructure Optimization).
+- **Cloud Providers:** Oracle Cloud (Infrastructure Optimization).
 - **Storage & CDN:** Cloudflare R2, S3-compatible storage solutions.
 - **Security:** TLS Hardening, RTC Security, Advanced Auth Patterns.
 
 ⚙️ **DevOps & Specialized Tech:**
-- **Tools:** Docker, Linux, CI/CD (GitHub Actions), Bash Automation.
+- **Tools:** Docker, Linux, (GitHub Actions), Bash Automation.
 - **RTC & AI:** **LiveKit** (Real-time communication), **Deepgram AI** (Speech-to-Text processing).
 - **Databases:** PostgreSQL (Self-hosted Supabase), Redis, Handling complex race conditions.
 
